@@ -1,0 +1,6 @@
+1. I made a CSS change and changed the background color of the headline box 
+and the headline title 
+
+2. Added a fade animation 
+
+3. Added the hover function and changed the background colors 
